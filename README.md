@@ -1,6 +1,6 @@
 # Smoking Detection
 
-Detect smoking behavior in images and videos using deep learning and computer vision. This project leverages a custom-trained YOLO (You Only Look Once) object detection model to identify instances of smoking in real-time or from recorded media.
+Detect smoking behaviour in images and videos using deep learning and computer vision. This project leverages a custom-trained YOLO (You Only Look Once) object detection model to identify instances of smoking in real-time or from recorded media.
 
 ## Features
 
@@ -20,8 +20,6 @@ Detect smoking behavior in images and videos using deep learning and computer vi
 - [Project Structure](#project-structure)
 - [Sample Results](#sample-results)
 - [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Installation
@@ -46,7 +44,7 @@ Install required Python packages:
 pip install -r requirements.txt
 
 ```
-*(If `requirements.txt` is missing, install manually: `pip install torch torchvision opencv-python`)*
+*(If `requirements.txt` is missing, install manually: `pip install torch torchvision opencv-python ultralytics`)*
 
 ---
 
