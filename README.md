@@ -1,3 +1,5 @@
+# Preview
+![Demo GIF](./smoking_detection_output.gif)
 # Smoking Detection
 
 Detect smoking behaviour in images and videos using deep learning and computer vision. This project leverages a custom-trained YOLO (You Only Look Once) object detection model to identify instances of smoking in real-time or from recorded media.
