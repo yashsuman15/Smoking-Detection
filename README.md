@@ -1,11 +1,11 @@
 # Preview
-<img src="./smoking_detection_output-1.gif" style="width:400px; height:auto;" />
+<img src="./smoking_detection_output-1.gif" style="width:800px; height:auto;" />
 
 ---
 
 only detects smoking when cigarate touchs the mouth
 
-<img src="./smoking_detection_output-2.gif" style="width:400px; height:auto;" />
+<img src="./smoking_detection_output-2.gif" style="width:800px; height:auto;" />
 
 # Smoking Detection
 
